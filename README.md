@@ -3,9 +3,8 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=HayakaRyu&show_icons=true&theme=radical)
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=HayakaRyu&layout=compact&theme=nightowl)
 <p align="center">
-  <a href="https://github.com/HayakaRyu"><img title="GitHub streak stats" src="(https://github-readme-streak-stats.herokuapp.com/?user=HayakaRyu" /></a>
-  <a href=[](https://github-readme-streak-stats.herokuapp.com/?user=HayakaRyu)
-![Profile views](https://gpvc.arturio.dev/HayakaRyu)  
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=HayakaRyu"</a>
+  <a href="https://gpvc.arturio.dev/HayakaRyu"</a>
 </p>
 
 ![GitHub metrics](https://metrics.lecoq.io/HayakaRyu)  
