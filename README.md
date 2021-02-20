@@ -5,6 +5,7 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=HayakaRyu)  
 
 ![GitHub metrics](https://metrics.lecoq.io/HayakaRyu) 
+
 ![Profile views](https://gpvc.arturio.dev/HayakaRyu) 
 
 [![Hayaka](https://telegra.ph/file/74a886a7d18f1352f5d3e.gif)](https://github.com/HayakaRyu)
