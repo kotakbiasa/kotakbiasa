@@ -4,3 +4,5 @@
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=HayakaRyu&layout=compact&theme=nightowl)
 
 [![Hayaka](https://telegra.ph/file/74a886a7d18f1352f5d3e.gif)](https://github.com/HayakaRyu)
+
+![Profile views](https://gpvc.arturio.dev/HayakaRyu)  
