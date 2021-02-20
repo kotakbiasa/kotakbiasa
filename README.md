@@ -2,6 +2,7 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=HayakaRyu&show_icons=true&theme=radical)
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=HayakaRyu&layout=compact&theme=nightowl)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=HayakaRyu)  
 
 ![GitHub metrics](https://metrics.lecoq.io/HayakaRyu)  
 
