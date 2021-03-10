@@ -22,13 +22,10 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/HayakaRyu?color=aqua&label=Followers&style=for-the-badge)
 ![GitHub User's stars](https://img.shields.io/github/stars/HayakaRyu?affiliations=OWNER&color=aqua&style=for-the-badge)
-![Keybase PGP](https://img.shields.io/keybase/pgp/HayakaRyu?color=aqua&style=for-the-badge)
-
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=HayakaRyu)  
 
 ![GitHub metrics](https://metrics.lecoq.io/HayakaRyu) 
 
 ![Profile views](https://gpvc.arturio.dev/HayakaRyu) 
 
-[![Hayaka](https://telegra.ph/file/74a886a7d18f1352f5d3e.gif)](https://github.com/HayakaRyu)
+
