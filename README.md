@@ -23,6 +23,13 @@
 
 <p align="left"> <a href="https://github.com/HayakaRyu"><img src="https://github-profile-trophy.vercel.app/?username=HayakaRyu" alt="HayakaRyu" /></a> </p>
 
+<p align="center">
+  <h3 align="center">🐍 My Snake Contribution Graph 
+    <img src="https://github.com/HayakaRyu/HayakaRyu/raw/output/github-contribution-grid-snake.svg" alt="contribution graph">
+  </h3>
+</p>
+
+
 ##  🐙 **Github Stats**
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=HayakaRyu&show_icons=true&theme=radical)
