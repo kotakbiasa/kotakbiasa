@@ -21,27 +21,27 @@
 <h3 align="left">Fav Databases:</h3>
 <p align="left"> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
 
-<p align="left"> <a href="https://github.com/HayakaRyu"><img src="https://github-profile-trophy.vercel.app/?username=HayakaRyu" alt="HayakaRyu" /></a> </p>
+<p align="left"> <a href="https://github.com/muhnurfauzan"><img src="https://github-profile-trophy.vercel.app/?username=muhnurfauzan" alt="muhnurfauzan" /></a> </p>
 
 <p align="center">
   <h3 align="center">🐍 My Snake Contribution Graph 
-    <img src="https://github.com/HayakaRyu/HayakaRyu/raw/output/github-contribution-grid-snake.svg" alt="contribution graph">
+    <img src="https://github.com/muhnurfauzan/muhnurfauzan/raw/output/github-contribution-grid-snake.svg" alt="contribution graph">
   </h3>
 </p>
 
 
 ##  🐙 **Github Stats**
 
-![github stats](https://github-readme-stats.vercel.app/api?username=HayakaRyu&show_icons=true&theme=radical)
-![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=HayakaRyu&layout=compact&theme=nightowl)
+![github stats](https://github-readme-stats.vercel.app/api?username=muhnurfauzanu&show_icons=true&theme=radical)
+![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=muhnurfauzan&layout=compact&theme=nightowl)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=HayakaRyu)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=muhnurfauzan)  
 
-![GitHub followers](https://img.shields.io/github/followers/HayakaRyu?color=aqua&label=Followers&style=for-the-badge)
-![GitHub User's stars](https://img.shields.io/github/stars/HayakaRyu?affiliations=OWNER&color=aqua&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/muhnurfauzan?color=aqua&label=Followers&style=for-the-badge)
+![GitHub User's stars](https://img.shields.io/github/stars/muhnurfauzan?affiliations=OWNER&color=aqua&style=for-the-badge)
 
-![GitHub metrics](https://metrics.lecoq.io/HayakaRyu) 
+![GitHub metrics](https://metrics.lecoq.io/muhnurfauzan) 
 
-![Profile views](https://gpvc.arturio.dev/HayakaRyu) 
+![Profile views](https://gpvc.arturio.dev/muhnurfauzan) 
 
 
