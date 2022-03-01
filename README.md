@@ -32,7 +32,7 @@
 
 ##  🐙 **Github Stats**
 
-![github stats](https://github-readme-stats.vercel.app/api?username=muhnurfauzanu&show_icons=true&theme=radical)
+![github stats](https://github-readme-stats.vercel.app/api?username=muhnurfauzan&show_icons=true&theme=radical)
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=muhnurfauzan&layout=compact&theme=nightowl)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=muhnurfauzan)  
