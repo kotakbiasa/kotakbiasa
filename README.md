@@ -33,7 +33,7 @@
 ##  🐙 **Github Stats**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-16%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20lines%20of%20code-blue)
 
@@ -103,7 +103,7 @@ JavaScript               1 repo              ████░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/muhnurfauzan/muhnurfauzan/main/charts/bar_graph.png) 
 
 
- Last Updated on 24/05/2022 06:53:55 UTC
+ Last Updated on 24/05/2022 07:11:30 UTC
 <!--END_SECTION:waka-->
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=muhnurfauzan&show_icons=true&theme=radical)
