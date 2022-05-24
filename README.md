@@ -78,13 +78,13 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Makassar
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    4 hrs 40 mins       █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Browser                  4 hrs 40 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  4 hrs 40 mins       █████████████████████████   100.0%
 
 ```
 
@@ -102,6 +102,6 @@ Python                   2 repos             ████████░░░�
 ![Chart not found](https://raw.githubusercontent.com/muhnurfauzan/muhnurfauzan/main/charts/bar_graph.png) 
 
 
- Last Updated on 24/05/2022 16:29:08 UTC
+ Last Updated on 24/05/2022 17:03:00 UTC
 <!--END_SECTION:waka-->
 
