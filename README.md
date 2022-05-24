@@ -33,13 +33,13 @@
 ##  🐙 **Github Stats**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-53%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%207%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 37 Contributions in the Year 2022
+> 🏆 36 Contributions in the Year 2022
  > 
 > 📦 59.5 kB Used in GitHub's Storage 
  > 
@@ -91,9 +91,8 @@ No Activity Tracked This Week
 **I Mostly Code in HTML** 
 
 ```text
-HTML                     3 repos             ████████████░░░░░░░░░░░░░   50.0% 
-Python                   2 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
-JavaScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67%
+HTML                     4 repos             ████████████████░░░░░░░░░   66.67% 
+Python                   2 repos             ████████░░░░░░░░░░░░░░░░░   33.33%
 
 ```
 
@@ -103,6 +102,6 @@ JavaScript               1 repo              ████░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/muhnurfauzan/muhnurfauzan/main/charts/bar_graph.png) 
 
 
- Last Updated on 24/05/2022 07:55:10 UTC
+ Last Updated on 24/05/2022 08:18:42 UTC
 <!--END_SECTION:waka-->
 
