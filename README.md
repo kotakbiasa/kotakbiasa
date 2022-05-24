@@ -32,6 +32,9 @@
 
 ##  🐙 **Github Stats**
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ![github stats](https://github-readme-stats.vercel.app/api?username=muhnurfauzan&show_icons=true&theme=radical)
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=muhnurfauzan&layout=compact&theme=nightowl)
 
