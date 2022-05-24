@@ -33,6 +33,77 @@
 ##  🐙 **Github Stats**
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 37 Contributions in the Year 2022
+ > 
+> 📦 59.5 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 17 Public Repositories 
+ > 
+> 🔑 0 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    46 commits     █████████████████████░░░░   83.64% 
+🌆 Daytime    5 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
+🌃 Evening    4 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   7.27% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday       2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.64% 
+Tuesday      21 commits     █████████░░░░░░░░░░░░░░░░   38.18% 
+Wednesday    4 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   7.27% 
+Thursday     2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.64% 
+Friday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Saturday     26 commits     ███████████░░░░░░░░░░░░░░   47.27% 
+Sunday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Makassar
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     3 repos             ████████████░░░░░░░░░░░░░   50.0% 
+Python                   2 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
+JavaScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/muhnurfauzan/muhnurfauzan/main/charts/bar_graph.png) 
+
+
+ Last Updated on 24/05/2022 06:52:21 UTC
 <!--END_SECTION:waka-->
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=muhnurfauzan&show_icons=true&theme=radical)
