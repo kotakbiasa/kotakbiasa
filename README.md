@@ -106,16 +106,3 @@ JavaScript               1 repo              ████░░░░░░░�
  Last Updated on 24/05/2022 07:11:30 UTC
 <!--END_SECTION:waka-->
 
-![github stats](https://github-readme-stats.vercel.app/api?username=muhnurfauzan&show_icons=true&theme=radical)
-![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=muhnurfauzan&layout=compact&theme=nightowl)
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=muhnurfauzan)  
-
-![GitHub followers](https://img.shields.io/github/followers/muhnurfauzan?color=aqua&label=Followers&style=for-the-badge)
-![GitHub User's stars](https://img.shields.io/github/stars/muhnurfauzan?affiliations=OWNER&color=aqua&style=for-the-badge)
-
-![GitHub metrics](https://metrics.lecoq.io/muhnurfauzan) 
-
-![Profile views](https://gpvc.arturio.dev/muhnurfauzan) 
-
-
