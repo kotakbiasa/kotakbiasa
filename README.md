@@ -33,7 +33,7 @@
 ##  🐙 **Github Stats**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-32%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%201%20min-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--60%20lines%20of%20code-blue)
 
@@ -41,7 +41,7 @@
 
 > 🏆 49 Contributions in the Year 2022
  > 
-> 📦 60.1 kB Used in GitHub's Storage 
+> 📦 60.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -103,6 +103,6 @@ Python                   2 repos             ████████░░░�
 ![Chart not found](https://raw.githubusercontent.com/muhnurfauzan/muhnurfauzan/main/charts/bar_graph.png) 
 
 
- Last Updated on 30/05/2022 14:57:15 UTC
+ Last Updated on 30/05/2022 15:22:11 UTC
 <!--END_SECTION:waka-->
 
