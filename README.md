@@ -33,7 +33,7 @@
 ##  🐙 **Github Stats**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs%2011%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--60%20lines%20of%20code-blue)
 
@@ -41,7 +41,7 @@
 
 > 🏆 49 Contributions in the Year 2022
  > 
-> 📦 60.1 kB Used in GitHub's Storage 
+> 📦 60.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -78,14 +78,14 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Makassar
 
 💬 Programming Languages: 
-Other                    31 hrs 25 mins      █████████████████████████   100.0%
+Other                    25 hrs 23 mins      █████████████████████████   100.0%
 
 🔥 Editors: 
-Browser                  30 hrs 45 mins      ████████████████████████░   97.88% 
-Word                     40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.12%
+Browser                  24 hrs 43 mins      ████████████████████████░   97.37% 
+Word                     40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.63%
 
 💻 Operating System: 
-Windows                  31 hrs 25 mins      █████████████████████████   100.0%
+Windows                  25 hrs 23 mins      █████████████████████████   100.0%
 
 ```
 
@@ -103,6 +103,6 @@ Python                   2 repos             ████████░░░�
 ![Chart not found](https://raw.githubusercontent.com/muhnurfauzan/muhnurfauzan/main/charts/bar_graph.png) 
 
 
- Last Updated on 02/06/2022 16:02:11 UTC
+ Last Updated on 02/06/2022 16:43:31 UTC
 <!--END_SECTION:waka-->
 
