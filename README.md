@@ -33,7 +33,7 @@
 ##  🐙 **Github Stats**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-54%20hrs%2020%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--60%20lines%20of%20code-blue)
 
@@ -78,14 +78,14 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Makassar
 
 💬 Programming Languages: 
-Other                    17 hrs 19 mins      █████████████████████████   100.0%
+Other                    15 hrs 39 mins      █████████████████████████   100.0%
 
 🔥 Editors: 
-Browser                  17 hrs 16 mins      █████████████████████████   99.7% 
-Word                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.3%
+Browser                  15 hrs 36 mins      █████████████████████████   99.67% 
+Word                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.33%
 
 💻 Operating System: 
-Windows                  17 hrs 19 mins      █████████████████████████   100.0%
+Windows                  15 hrs 39 mins      █████████████████████████   100.0%
 
 ```
 
@@ -103,6 +103,6 @@ Python                   2 repos             ████████░░░�
 ![Chart not found](https://raw.githubusercontent.com/muhnurfauzan/muhnurfauzan/main/charts/bar_graph.png) 
 
 
- Last Updated on 08/06/2022 16:00:34 UTC
+ Last Updated on 08/06/2022 16:36:27 UTC
 <!--END_SECTION:waka-->
 
