@@ -37,18 +37,19 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--60%20lines%20of%20code-blue)
 
-**📊 Global GitHub data** 
+**🐱 My GitHub Data** 
 
-```text
-🏆 52 contributions in 2022
-
-📦 60.4 kB used in GitHub's storage 
-
-📜 20 Public Repositories 
-
-🔑 0 Private Repositories  
+> 🏆 52 Contributions in the Year 2022
  > 
-**I'm an early 🐤** 
+> 📦 60.4 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 20 Public Repositories 
+ > 
+> 🔑 0 Private Repositories  
+ > 
+**I'm an Early 🐤** 
 
 ```text
 🌞 Morning    46 commits     █████████████████░░░░░░░░   68.66% 
@@ -57,7 +58,7 @@
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
-📅 **I'm most productive on Tuesday** 
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
 Monday       2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.99% 
@@ -71,7 +72,7 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This week I spent my time on** 
+📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Time Zone: Asia/Makassar
@@ -88,7 +89,7 @@ Windows                  10 hrs 11 mins      ███████████�
 
 ```
 
-**💻 I mostly code in HTML** 
+**I Mostly Code in HTML** 
 
 ```text
 HTML                     4 repos             ████████████████░░░░░░░░░   66.67% 
@@ -102,6 +103,6 @@ Python                   2 repos             ████████░░░�
 ![Chart not found](https://raw.githubusercontent.com/muhnurfauzan/muhnurfauzan/main/charts/bar_graph.png) 
 
 
- Last Updated on 12/06/2022 07:54:41 UTC
+ Last Updated on 12/06/2022 08:15:22 UTC
 <!--END_SECTION:waka-->
 
