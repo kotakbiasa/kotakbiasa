@@ -39,13 +39,13 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 52 Contributions in the Year 2022
+> 🏆 53 Contributions in the Year 2022
  > 
 > 📦 60.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 20 Public Repositories 
+> 📜 21 Public Repositories 
  > 
 > 🔑 0 Private Repositories  
  > 
@@ -91,8 +91,8 @@ Windows                  4 hrs 40 mins       ███████████�
 **I Mostly Code in HTML** 
 
 ```text
-HTML                     4 repos             ████████████████░░░░░░░░░   66.67% 
-Python                   2 repos             ████████░░░░░░░░░░░░░░░░░   33.33%
+HTML                     4 repos             ██████████████░░░░░░░░░░░   57.14% 
+Python                   3 repos             ██████████░░░░░░░░░░░░░░░   42.86%
 
 ```
 
@@ -102,6 +102,6 @@ Python                   2 repos             ████████░░░�
 ![Chart not found](https://raw.githubusercontent.com/muhnurfauzan/muhnurfauzan/main/charts/bar_graph.png) 
 
 
- Last Updated on 21/06/2022 12:54:17 UTC
+ Last Updated on 21/06/2022 13:37:41 UTC
 <!--END_SECTION:waka-->
 
