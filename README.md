@@ -49,45 +49,6 @@
  > 
 > 🔑 0 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    49 commits     ██████████████████░░░░░░░   72.06% 
-🌆 Daytime    6 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.82% 
-🌃 Evening    13 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.12% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   7.35% 
-Tuesday      31 commits     ███████████░░░░░░░░░░░░░░   45.59% 
-Wednesday    4 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.88% 
-Thursday     2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.94% 
-Friday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Saturday     26 commits     █████████░░░░░░░░░░░░░░░░   38.24% 
-Sunday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Makassar
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in HTML** 
 
 ```text
@@ -102,6 +63,6 @@ Python                   1 repo              ██████░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/muhnurfauzan/muhnurfauzan/main/charts/bar_graph.png) 
 
 
- Last Updated on 09/11/2022 15:57:38 UTC
+ Last Updated on 09/11/2022 16:30:46 UTC
 <!--END_SECTION:waka-->
 
