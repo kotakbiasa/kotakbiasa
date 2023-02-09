@@ -1,7 +1,7 @@
 <h1 align="center">こんにちは〜 <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>Hello, I'm Muhammad Nur Fauzan</h1>
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31b4jpi7kf7oulwx6heboi27yr4y&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color_cover=true"> https://spotify-github-profile.vercel.app/api/view?uid=31b4jpi7kf7oulwx6heboi27yr4y&redirect=true)
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31b4jpi7kf7oulwx6heboi27yr4y&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color_cover=true"> <a href="https://spotify-github-profile.vercel.app/api/view?uid=31b4jpi7kf7oulwx6heboi27yr4y&redirect=true">
 </p>
 
 
