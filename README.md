@@ -4,6 +4,8 @@
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=31b4jpi7kf7oulwx6heboi27yr4y&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color_cover=true"> <a href="https://spotify-github-profile.vercel.app/api/view?uid=31b4jpi7kf7oulwx6heboi27yr4y&redirect=true"> </a>
 </p>
 
+<p align="center"> <a href="https://spotify-github-profile.vercel.app/api/view?uid=31b4jpi7kf7oulwx6heboi27yr4y&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31b4jpi7kf7oulwx6heboi27yr4y&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color_cover=true" alt="muhnurfauzan" /></a> </p>
+
 
 ## **About me**:
 
