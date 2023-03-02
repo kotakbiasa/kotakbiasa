@@ -42,7 +42,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 168.3 kB Used in GitHub's Storage 
+> 📦 168.2 kB Used in GitHub's Storage 
  > 
 > 🏆 48 Contributions in the Year 2023
  > 
@@ -103,6 +103,6 @@ HTML                     3 repos             ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/muhnurfauzan/muhnurfauzan/main/assets/bar_graph.png)
 
 
- Last Updated on 02/03/2023 20:41:41 UTC
+ Last Updated on 02/03/2023 20:52:05 UTC
 <!--END_SECTION:waka-->
 
