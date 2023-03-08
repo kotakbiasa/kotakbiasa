@@ -79,13 +79,13 @@ Sunday                   3 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Makassar
 
 💬 Programming Languages: 
-Other                    2 hrs 55 mins       █████████████████████████   100.00 % 
+Other                    2 hrs 43 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Chrome                   2 hrs 55 mins       █████████████████████████   100.00 % 
+Chrome                   2 hrs 43 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 55 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -103,6 +103,6 @@ HTML                     3 repos             ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/muhnurfauzan/muhnurfauzan/main/assets/bar_graph.png)
 
 
- Last Updated on 08/03/2023 16:13:44 UTC
+ Last Updated on 08/03/2023 16:42:07 UTC
 <!--END_SECTION:waka-->
 
