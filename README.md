@@ -38,11 +38,11 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-79%20hrs%2013%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.8%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.2%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 168.5 kB Used in GitHub's Storage 
+> 📦 168.4 kB Used in GitHub's Storage 
  > 
 > 🏆 52 Contributions in the Year 2023
  > 
@@ -92,8 +92,9 @@ Linux                    1 hr 26 mins        ███████████�
 
 ```text
 Python                   4 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
-JavaScript               3 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
 HTML                     3 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
+JavaScript               2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
 ```
 
 
@@ -103,6 +104,6 @@ HTML                     3 repos             ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/muhnurfauzan/muhnurfauzan/main/assets/bar_graph.png)
 
 
- Last Updated on 10/03/2023 11:47:28 UTC
+ Last Updated on 10/03/2023 11:57:39 UTC
 <!--END_SECTION:waka-->
 
