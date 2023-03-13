@@ -48,7 +48,7 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 32 Public Repositories 
+> 📜 33 Public Repositories 
  > 
 > 🔑 6 Private Repositories 
  > 
@@ -104,6 +104,6 @@ TypeScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/muhnurfauzan/muhnurfauzan/main/assets/bar_graph.png)
 
 
- Last Updated on 13/03/2023 12:26:38 UTC
+ Last Updated on 13/03/2023 12:59:10 UTC
 <!--END_SECTION:waka-->
 
