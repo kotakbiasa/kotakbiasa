@@ -79,13 +79,13 @@ Sunday                   6 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Makassar
 
 💬 Programming Languages: 
-Other                    24 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Chrome                   24 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    24 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -104,6 +104,6 @@ TypeScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/muhnurfauzan/muhnurfauzan/main/assets/bar_graph.png)
 
 
- Last Updated on 13/03/2023 16:12:13 UTC
+ Last Updated on 13/03/2023 16:38:42 UTC
 <!--END_SECTION:waka-->
 
