@@ -36,13 +36,13 @@
 ##  🐙 **Github Stats**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-92%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-92%20hrs%2017%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.4%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 171.8 kB Used in GitHub's Storage 
+> 📦 186.8 kB Used in GitHub's Storage 
  > 
 > 🏆 61 Contributions in the Year 2023
  > 
@@ -104,6 +104,6 @@ TypeScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/muhnurfauzan/muhnurfauzan/main/assets/bar_graph.png)
 
 
- Last Updated on 31/03/2023 07:00:27 UTC
+ Last Updated on 31/03/2023 07:18:50 UTC
 <!--END_SECTION:waka-->
 
