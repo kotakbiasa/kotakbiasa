@@ -36,7 +36,7 @@
 ##  🐙 **Github Stats**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-105%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-105%20hrs%2042%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.5%20thousand%20lines%20of%20code-blue)
 
@@ -79,13 +79,13 @@ Sunday                   6 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Makassar
 
 💬 Programming Languages: 
-Other                    8 hrs 7 mins        █████████████████████████   100.00 % 
+Other                    5 hrs 39 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Chrome                   8 hrs 7 mins        █████████████████████████   100.00 % 
+Chrome                   5 hrs 39 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    8 hrs 7 mins        █████████████████████████   100.00 % 
+Linux                    5 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -104,6 +104,6 @@ TypeScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/muhnurfauzan/muhnurfauzan/main/assets/bar_graph.png)
 
 
- Last Updated on 12/04/2023 16:09:51 UTC
+ Last Updated on 12/04/2023 16:32:34 UTC
 <!--END_SECTION:waka-->
 
