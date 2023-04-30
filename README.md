@@ -42,7 +42,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 187.8 kB Used in GitHub's Storage 
+> 📦 1.4 MB Used in GitHub's Storage 
  > 
 > 🏆 63 Contributions in the Year 2023
  > 
@@ -104,6 +104,6 @@ TypeScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/muhnurfauzan/muhnurfauzan/main/assets/bar_graph.png)
 
 
- Last Updated on 30/04/2023 14:54:07 UTC
+ Last Updated on 30/04/2023 15:09:33 UTC
 <!--END_SECTION:waka-->
 
