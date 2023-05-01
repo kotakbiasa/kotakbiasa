@@ -36,19 +36,19 @@
 ##  🐙 **Github Stats**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-111%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-111%20hrs%2043%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.5%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 1.4 MB Used in GitHub's Storage 
+> 📦 187.8 kB Used in GitHub's Storage 
  > 
-> 🏆 63 Contributions in the Year 2023
+> 🏆 60 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 35 Public Repositories 
+> 📜 32 Public Repositories 
  > 
 > 🔑 7 Private Repositories 
  > 
@@ -104,6 +104,6 @@ TypeScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/muhnurfauzan/muhnurfauzan/main/assets/bar_graph.png)
 
 
- Last Updated on 01/05/2023 03:39:15 UTC
+ Last Updated on 01/05/2023 03:49:40 UTC
 <!--END_SECTION:waka-->
 
