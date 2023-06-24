@@ -36,7 +36,7 @@
 ##  🐙 **Github Stats**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-254%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-254%20hrs%2038%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.1%20thousand%20lines%20of%20code-blue)
 
@@ -79,14 +79,13 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Makassar
 
 💬 Programming Languages: 
-Other                    10 hrs 59 mins      █████████████████████████   100.00 % 
+Other                    8 hrs 49 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Chrome                   10 hrs 59 mins      █████████████████████████   100.00 % 
+Chrome                   8 hrs 49 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  10 hrs 56 mins      █████████████████████████   99.64 % 
-Linux                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+Windows                  8 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -104,6 +103,6 @@ CSS                      1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kotakbiasa/kotakbiasa/main/assets/bar_graph.png)
 
 
- Last Updated on 24/06/2023 16:24:28 UTC
+ Last Updated on 24/06/2023 16:41:37 UTC
 <!--END_SECTION:waka-->
 
