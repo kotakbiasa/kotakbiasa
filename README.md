@@ -79,13 +79,13 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Makassar
 
 💬 Programming Languages: 
-Other                    8 hrs 58 mins       █████████████████████████   100.00 % 
+Other                    6 hrs 2 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Chrome                   8 hrs 58 mins       █████████████████████████   100.00 % 
+Chrome                   6 hrs 2 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  8 hrs 58 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -103,6 +103,6 @@ CSS                      1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kotakbiasa/kotakbiasa/main/assets/bar_graph.png)
 
 
- Last Updated on 26/06/2023 16:28:00 UTC
+ Last Updated on 26/06/2023 16:45:22 UTC
 <!--END_SECTION:waka-->
 
