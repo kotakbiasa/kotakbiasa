@@ -1,7 +1,7 @@
-<h1 align="center">こんにちは〜 <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>Hello, I'm Muhammad Nur Fauzan</h1>
+<h1 align="center">こんにちは〜 <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>Hello, I'm Kotak Biasa</h1>
 
 ### Spotify Playing 🎧
-<p align="center"> <a href="https://spotify-github-profile.vercel.app/api/view?uid=31b4jpi7kf7oulwx6heboi27yr4y&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31b4jpi7kf7oulwx6heboi27yr4y&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color_cover=true" alt="muhnurfauzan" /></a> </p>
+<p align="center"> <a href="https://spotify-github-profile.vercel.app/api/view?uid=31b4jpi7kf7oulwx6heboi27yr4y&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31b4jpi7kf7oulwx6heboi27yr4y&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color_cover=true" alt="kotakbiasa" /></a> </p>
 
 ## **About me**:
 
@@ -24,11 +24,11 @@
 <h3 align="left">Fav Databases:</h3>
 <p align="left"> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
 
-<p align="left"> <a href="https://github.com/muhnurfauzan"><img src="https://github-profile-trophy.vercel.app/?username=muhnurfauzan" alt="muhnurfauzan" /></a> </p>
+<p align="left"> <a href="https://github.com/kotakbiasa"><img src="https://github-profile-trophy.vercel.app/?username=kotakbiasa" alt="kotakbiasa" /></a> </p>
 
 <p align="center">
   <h3 align="center">🐍 My Snake Contribution Graph 
-    <img src="https://github.com/muhnurfauzan/muhnurfauzan/raw/output/github-contribution-grid-snake.svg" alt="contribution graph">
+    <img src="https://github.com/kotakbiasa/kotakbiasa/raw/output/github-contribution-grid-snake.svg" alt="contribution graph">
   </h3>
 </p>
 
