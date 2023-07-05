@@ -26,12 +26,6 @@
 
 <p align="left"> <a href="https://github.com/kotakbiasa"><img src="https://github-profile-trophy.vercel.app/?username=kotakbiasa" alt="kotakbiasa" /></a> </p>
 
-<p align="center">
-  <h3 align="center">🐍 My Snake Contribution Graph 
-    <img src="https://github.com/kotakbiasa/kotakbiasa/raw/output/github-contribution-grid-snake.svg" alt="contribution graph">
-  </h3>
-</p>
-
 
 ##  🐙 **Github Stats**
 
