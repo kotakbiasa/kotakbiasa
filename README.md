@@ -30,19 +30,19 @@
 ##  🐙 **Github Stats**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-273%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-273%20hrs%2041%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.1%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 1.4 MB Used in GitHub's Storage 
+> 📦 1.3 MB Used in GitHub's Storage 
  > 
 > 🏆 39 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 16 Public Repositories 
+> 📜 15 Public Repositories 
  > 
 > 🔑 2 Private Repositories 
  > 
@@ -85,9 +85,9 @@ Windows                  16 hrs 53 mins      ███████████�
 **I Mostly Code in HTML** 
 
 ```text
-HTML                     7 repos             ███████████████████░░░░░░   77.78 % 
-Stylus                   1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-CSS                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+HTML                     6 repos             ███████████████████░░░░░░   75.00 % 
+Stylus                   1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+CSS                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
 ```
 
 
@@ -97,6 +97,6 @@ CSS                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kotakbiasa/kotakbiasa/main/assets/bar_graph.png)
 
 
- Last Updated on 07/07/2023 03:31:54 UTC
+ Last Updated on 07/07/2023 03:45:23 UTC
 <!--END_SECTION:waka-->
 
