@@ -30,7 +30,7 @@
 ##  🐙 **Github Stats**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-283%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-283%20hrs%2045%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-161%20lines%20of%20code-blue)
 
@@ -96,6 +96,6 @@ Stylus                   1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kotakbiasa/kotakbiasa/main/assets/bar_graph.png)
 
 
- Last Updated on 11/07/2023 22:56:14 UTC
+ Last Updated on 11/07/2023 23:15:45 UTC
 <!--END_SECTION:waka-->
 
