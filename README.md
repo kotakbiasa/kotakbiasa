@@ -42,7 +42,7 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 16 Public Repositories 
+> 📜 17 Public Repositories 
  > 
 > 🔑 1 Private Repositories 
  > 
@@ -96,6 +96,6 @@ Stylus                   1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kotakbiasa/kotakbiasa/main/assets/bar_graph.png)
 
 
- Last Updated on 13/07/2023 03:45:22 UTC
+ Last Updated on 13/07/2023 03:55:57 UTC
 <!--END_SECTION:waka-->
 
