@@ -48,13 +48,13 @@ CSV             🕓 7m     ░░░░░░░░░░░░░░░░░�
 <td valign="top" width="50%">
 
 <!-- steam-box start -->
-#### <a href="https://gist.github.com/8bf56353bcb3a8e798b55b546b9619cf" target="_blank">🎮 Steam playtime leaderboard</a>
+#### <a href="https://gist.github.com/e0eca5e7df6271bfce3866b3460d08f1" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🔫 Counter-Strike: Global Offensive 🕘 1548 hrs 17 mins
-🎮 Apex Legends                     🕘 400 hrs 25 mins
-💻 Wallpaper Engine                 🕘 113 hrs 3 mins
-🚓 Grand Theft Auto V               🕘 52 hrs 15 mins
-🍳 PUBG: BATTLEGROUNDS              🕘 34 hrs 40 mins
+🎮 DEAD OR ALIVE Xtreme Venus Vacation [JP] 🕘 80 hrs 38 mins
+🎮 Toram Online                     🕘 34 hrs 26 mins
+🎮 World of Tanks Blitz             🕘 10 hrs 35 mins
+🎮 HonkaiImpact 3rd                 🕘 6 hrs 42 mins
+🎮 Booty Calls                      🕘 6 hrs 28 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
