@@ -1,37 +1,45 @@
-name: Update Spotify Box
+name: Update spotify playtime
+
 on:
-  gist:
-    # ...
+  push:
+    branches: [master]
+  pull_request:
   workflow_dispatch:
+    branches: [master]
   schedule:
     - cron: "10 * * * *"
 
 jobs:
-  update_spotify_box:
-    name: Update Spotify Box Job
+  build:
+    name: Update-steam-playtime
     runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      GIST_ID: 9fedfff4c03dafcd3e0e4f7eb85ced56
+      STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
+      STEAM_ID: ${{ secrets.STEAM_ID }}
+      UPDATE_OPTION: GIST_AND_MARKDOWN
+      MARKDOWN_FILE: README.md
+
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
-
-      - name: Read Gist content
-        id: read_gist
-        uses: actions/github-script@v5
+      - name: Set up Go 1.x
+        uses: actions/setup-go@v2
         with:
-          script: |
-            const gistId = '9fedfff4c03dafcd3e0e4f7eb85ced56'; // Ganti dengan ID Gist Anda
-            const response = await github.gists.get({ gist_id: gistId });
-            const file = response.data.files['spotify-box.md']; // Ganti dengan nama file yang ingin Anda gunakan untuk Spotify Box
-            return file.content;
+          go-version: ^1.14
+        id: go
+      - name: Check out repo
+        uses: actions/checkout@v2
+      - uses: actions/setup-go@v2
+      - name: Clone and run steam-box
+        run: |-
+          git clone https://github.com/kotakbiasa/steam-box.git 
+          cd steam-box && go build -o steam ./cmd/box/main.go
+          mv ./steam ../ && cd .. && rm -rf steam-box/
 
-      - name: Write content to README
-        run: |
-          echo "${{ steps.read_gist.outputs.result }}" > spotify-box.md
-
-      - name: Commit and push changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add .
-          git commit -m "Update Spotify Box from Gist"
-          git push
+      - name: Commit and push
+        run: |-
+          ./steam
+          git config --global user.email "bot@github.com" && git config --global user.name "Steam-Bot"
+          git diff
+          git add README.md && git commit -m ":memo: update profile" || exit 0
+          git pull && git push
