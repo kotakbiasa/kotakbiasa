@@ -1,0 +1,37 @@
+name: Update Spotify Box
+on:
+  gist:
+    # ...
+  workflow_dispatch:
+  schedule:
+    - cron: "10 * * * *"
+
+jobs:
+  update_spotify_box:
+    name: Update Spotify Box Job
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Read Gist content
+        id: read_gist
+        uses: actions/github-script@v5
+        with:
+          script: |
+            const gistId = '9fedfff4c03dafcd3e0e4f7eb85ced56'; // Ganti dengan ID Gist Anda
+            const response = await github.gists.get({ gist_id: gistId });
+            const file = response.data.files['spotify-box.md']; // Ganti dengan nama file yang ingin Anda gunakan untuk Spotify Box
+            return file.content;
+
+      - name: Write content to README
+        run: |
+          echo "${{ steps.read_gist.outputs.result }}" > spotify-box.md
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "Update Spotify Box from Gist"
+          git push
