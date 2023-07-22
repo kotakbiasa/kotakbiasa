@@ -30,7 +30,7 @@
 <tr>
 <td valign="top" width="50%">
 
-<!-- waka-box start -->
+<!-- spotify-box start -->
 #### <a href="https://gist.github.com/9bc7025496e478f439b9cd43eba989a4" target="_blank">📊 Weekly development breakdown</a>
 ```text
 Go              🕓 32h17m ████████████████████▎░ 92.2%
@@ -40,7 +40,7 @@ PHP             🕓 23m    ▏░░░░░░░░░░░░░░░░�
 CSV             🕓 7m     ░░░░░░░░░░░░░░░░░░░░░░  0.4%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
-<!-- waka-box end -->
+<!-- spotify-box end -->
 
 [powered by waka-box-go](https://github.com/YouEclipse/waka-box-go)
 
