@@ -48,7 +48,7 @@ CSV             🕓 7m     ░░░░░░░░░░░░░░░░░�
 <td valign="top" width="50%">
 
 <!-- steam-box start -->
-#### <a href="https://gist.github.com/e0eca5e7df6271bfce3866b3460d08f1" target="_blank">🎮 Steam playtime leaderboard</a>
+#### <a href="https://gist.github.com/9fedfff4c03dafcd3e0e4f7eb85ced56" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
 🎮 DEAD OR ALIVE Xtreme Venus Vacation [JP] 🕘 80 hrs 38 mins
 🎮 Toram Online                     🕘 34 hrs 26 mins
