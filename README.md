@@ -10,7 +10,6 @@
 **Languages I am Learning :**
 
 [![Python](https://img.shields.io/badge/-Python-%232c3e50?style=flat-square&logo=python)](https://python.org)
-[![PHP](https://img.shields.io/badge/-PHP-%232c3e50?style=flat-square&logo=php)](https://php.net)
 
 **The tools I usually use:**
 
