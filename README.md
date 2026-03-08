@@ -73,6 +73,11 @@ Motto   : Build useful things. Ship fast.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kotakbiasa&theme=github-compact&hide_border=true" />
 </div>
 
+## 🗺️ Visitor & Activity Map
+<div align="center">
+  <img src="https://ghchart.rshah.org/58a6ff/kotakbiasa" alt="github contribution map" />
+</div>
+
 ## 📬 Contact
 <div align="center">
 
