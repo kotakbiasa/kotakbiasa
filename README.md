@@ -1,3 +1,13 @@
+```bash
+$ whoami
+kotakbiasa
+
+$ neofetch
+OS: Arch Linux x86_64
+Shell: zsh / bash
+Focus: Bots • Automation • VPS • Open Source
+```
+
 <div align="center">
 
 # 👋 Halo, I'm **Kotak Biasa**
@@ -6,6 +16,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=kotakbiasa&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/kotakbiasa)
 [![Followers](https://img.shields.io/github/followers/kotakbiasa?style=for-the-badge)](https://github.com/kotakbiasa?tab=followers)
 [![Stars](https://img.shields.io/github/stars/kotakbiasa?affiliations=OWNER&style=for-the-badge)](https://github.com/kotakbiasa?tab=repositories)
+[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org)
 
 </div>
 
@@ -14,7 +25,7 @@
 ## 🚀 About Me
 - 🇮🇩 Based in Indonesia
 - 🤖 Building bots, control panels, and automation tools
-- 🐧 Linux + terminal workflow everyday
+- 🐧 Daily OS: **Arch Linux** (`btw` 😼)
 - ⚡ Focus: practical projects that are useful and fast to deploy
 
 ## 🧰 Tech Stack
