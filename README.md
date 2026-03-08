@@ -73,10 +73,47 @@ Motto   : Build useful things. Ship fast.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kotakbiasa&theme=github-compact&hide_border=true" />
 </div>
 
+## 🐍 Snake Contribution
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kotakbiasa/kotakbiasa/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
+
+## 🧩 Featured Repositories
+<div align="center">
+  <a href="https://github.com/kotakbiasa/control-bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kotakbiasa&repo=control-bot&theme=dark&hide_border=true" /></a>
+  <a href="https://github.com/kotakbiasa/dramabot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kotakbiasa&repo=dramabot&theme=dark&hide_border=true" /></a>
+</div>
+<div align="center">
+  <a href="https://github.com/kotakbiasa/ThinkPad-X380-Yoga-Hackintosh"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kotakbiasa&repo=ThinkPad-X380-Yoga-Hackintosh&theme=dark&hide_border=true" /></a>
+  <a href="https://github.com/kotakbiasa/tg-gemini-bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kotakbiasa&repo=tg-gemini-bot&theme=dark&hide_border=true" /></a>
+</div>
+
+## 🖥️ Terminal Playground
+```bash
+$ ls ~/projects
+control-bot  dramabot  tg-gemini-bot  ThinkPad-X380-Yoga-Hackintosh
+
+$ uptime
+always building useful stuff 🚀
+
+$ echo $DISTRO
+Arch Linux
+```
+
+## 🎧 Spotify Now Playing
+<div align="center">
+  <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify now playing" />
+</div>
+
 ## 🗺️ Visitor & Activity Map
 <div align="center">
   <img src="https://ghchart.rshah.org/58a6ff/kotakbiasa" alt="github contribution map" />
 </div>
+
+## 🟩 Matrix Vibe
+```text
+01001011 01101111 01110100 01100001 01101011 00100000 01000010 01101001 01100001 01110011 01100001
+```
 
 ## 📬 Contact
 <div align="center">
