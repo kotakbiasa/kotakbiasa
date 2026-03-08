@@ -82,7 +82,7 @@ Motto   : Build useful things. Ship fast.
 <div align="center">
 
 [![Telegram](https://img.shields.io/badge/Telegram-@PleaseNoPM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/PleaseNoPM)
-[![Telegram 2](https://img.shields.io/badge/Telegram-@AntuSpamID-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AntuSpamID)
+[![Telegram 2](https://img.shields.io/badge/Telegram-@AntiSpamID-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AntiSpamID)
 [![Channel](https://img.shields.io/badge/Channel-@KotakBiasa-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KotakBiasa)
 [![GitHub](https://img.shields.io/badge/GitHub-kotakbiasa-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kotakbiasa)
 
