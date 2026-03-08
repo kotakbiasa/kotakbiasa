@@ -81,9 +81,9 @@ Motto   : Build useful things. Ship fast.
 ## 📬 Contact
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-@deltaDiscuss-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/deltaDiscuss)
+[![Telegram](https://img.shields.io/badge/Telegram-@PleaseNoPM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/PleaseNoPM)
+[![Telegram 2](https://img.shields.io/badge/Telegram-@AntuSpamID-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AntuSpamID)
 [![GitHub](https://img.shields.io/badge/GitHub-kotakbiasa-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kotakbiasa)
-[![Email](https://img.shields.io/badge/Email-Open%20Issue-informational?style=for-the-badge&logo=gmail&logoColor=white)](https://github.com/kotakbiasa)
 
 </div>
 
