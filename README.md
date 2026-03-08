@@ -40,16 +40,20 @@
 ## 🏆 Badges & Activity
 <div align="center">
 
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=kotakbiasa&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/kotakbiasa)
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=kotakbiasa&theme=onedark&no-frame=true&no-bg=true&row=1&column=6)](https://github.com/kotakbiasa)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kotakbiasa&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kotakbiasa&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kotakbiasa&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kotakbiasa&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kotakbiasa&show_icons=true&theme=dark&hide_border=true&rank_icon=github&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kotakbiasa&layout=compact&theme=dark&hide_border=true&langs_count=8" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kotakbiasa&theme=github-compact&hide_border=true" />
 </div>
 
 ---
