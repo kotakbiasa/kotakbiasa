@@ -1,17 +1,23 @@
-```bash
-$ whoami
+```console
+╭─kotakbiasa@archlinux ~
+╰─$ whoami
 kotakbiasa
 
-$ neofetch
-OS: Arch Linux x86_64
-Shell: zsh / bash
-Focus: Bots • Automation • VPS • Open Source
+╭─kotakbiasa@archlinux ~
+╰─$ fastfetch
+OS      : Arch Linux x86_64
+Shell   : zsh / bash
+Editor  : Neovim / VS Code
+Focus   : Bots • Automation • VPS • Open Source
+Motto   : Build useful things. Ship fast.
 ```
 
 <div align="center">
 
+<img src="./assets/terminal-header.svg" alt="terminal header" />
+
 # 👋 Halo, I'm **Kotak Biasa**
-### Builder • Automation Enthusiast • Open Source Explorer
+### `Builder • Automation Enthusiast • Open Source Explorer`
 
 [![Profile Views](https://komarev.com/ghpvc/?username=kotakbiasa&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/kotakbiasa)
 [![Followers](https://img.shields.io/github/followers/kotakbiasa?style=for-the-badge)](https://github.com/kotakbiasa?tab=followers)
