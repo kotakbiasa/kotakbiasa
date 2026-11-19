@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Halo, I'm **Fauzan** (`kotakbiasa` / `muhnurfauzan`)
+# 👋 Halo, I'm **Fauzan** (`kotakbiasa`)
 ### `Builder • Automation Enthusiast • Open Source Explorer`
 
 [![Profile Views](https://komarev.com/ghpvc/?username=kotakbiasa&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/kotakbiasa)
@@ -30,7 +30,6 @@ Motto   : Build useful things. Ship fast. 🚀
 - 🎮 Modded **Minecraft** enjoyer (Fabric + Prism Launcher)
 - ⚡ Practical projects, clean workflow, quick deployment
 
-> 📦 **Active development moved to [@muhnurfauzan](https://github.com/muhnurfauzan)** — newer projects live there.
 
 ## 🧰 Tech Stack
 
@@ -52,8 +51,8 @@ Motto   : Build useful things. Ship fast. 🚀
 
 <div align="center">
 
-[![tgcalls-js](https://github-readme-stats.vercel.app/api/pin/?username=muhnurfauzan&repo=tgcalls-js&theme=dark&hide_border=true)](https://github.com/muhnurfauzan/tgcalls-js)
-[![DeltaUserJS](https://github-readme-stats.vercel.app/api/pin/?username=muhnurfauzan&repo=DeltaUserJS&theme=dark&hide_border=true)](https://github.com/muhnurfauzan/DeltaUserJS)
+[![tgcalls-js](https://github-readme-stats.vercel.app/api/pin/?username=kotakbiasa&repo=tgcalls-js&theme=dark&hide_border=true)](https://github.com/muhnurfauzan/tgcalls-js)
+[![DeltaUserJS](https://github-readme-stats.vercel.app/api/pin/?username=kotakbiasa&repo=DeltaUserJS&theme=dark&hide_border=true)](https://github.com/muhnurfauzan/DeltaUserJS)
 [![ThinkPad Hackintosh](https://github-readme-stats.vercel.app/api/pin/?username=kotakbiasa&repo=ThinkPad-X380-Yoga-Hackintosh&theme=dark&hide_border=true)](https://github.com/kotakbiasa/ThinkPad-X380-Yoga-Hackintosh)
 [![devflow](https://github-readme-stats.vercel.app/api/pin/?username=kotakbiasa&repo=devflow&theme=dark&hide_border=true)](https://github.com/kotakbiasa/devflow)
 
